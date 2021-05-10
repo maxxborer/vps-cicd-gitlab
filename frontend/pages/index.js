@@ -19,8 +19,13 @@ export default function Home() {
           <br />
         </h1>
 
-        <a className={styles.code} href="https://gitlab.com/***REMOVED***/next-starter">https://gitlab.com/***REMOVED***/next-starter</a>
+        <p className={styles.title}>
+          <a className={styles.code} href="https://gitlab.com/***REMOVED***/next-starter">
+            https://gitlab.com/***REMOVED***/next-starter
+          </a>
+        </p>
         </main>
     </div>
   )
 }
+s
