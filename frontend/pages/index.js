@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>***REMOVED***</title>
+        <title>maxxborer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          ***REMOVED***
+          maxxborer
           <br />
           <br />
           vps + domain + docker + ci/cd
@@ -20,8 +20,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.title}>
-          <a className={styles.code} href="https://gitlab.com/***REMOVED***/vps-cicd-starter">
-            gitlab.com/***REMOVED***/vps-cicd-starter
+          <a className={styles.code} href="https://gitlab.com/maxxborer/vps-cicd-starter">
+            gitlab.com/maxxborer/vps-cicd-starter
           </a>
         </p>
         </main>
