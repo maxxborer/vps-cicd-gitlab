@@ -6,6 +6,7 @@ services:
     # restart: always
     environment:
       CERTBOT_EMAIL: "***REMOVED***@gmail.com"
+      DEBUG: 1
     ports:
       - "80:80"
       - "443:443"
