@@ -10,7 +10,7 @@ services:
       - "proxy"
     restart: always
     environment:
-      CERTBOT_EMAIL: "mvbureev@gmail.com"
+      CERTBOT_EMAIL: "***REMOVED***@gmail.com"
     ports:
       - "80:80"
       - "443:443"
