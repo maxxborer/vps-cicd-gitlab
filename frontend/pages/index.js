@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          ***REMOVED***
+          {`<${***REMOVED***}>`}
           <br />
           <br />
           vps + domain + docker + ci/cd
